@@ -3,4 +3,7 @@ This project demonstrates a hand gesture-controlled LED system using the ESP32 m
 
 The gesture recognition process is handled using Python and MediaPipe, a powerful library designed for hand-tracking and gesture recognition. The detected hand gestures are processed and mapped to specific LED control commands. These commands are then transmitted wirelessly over Wi-Fi to the ESP32 microcontroller, which acts as a server. The ESP32 receives the commands via HTTP requests and controls the LEDs connected to its GPIO pins, turning them on or off based on the detected gestures.
 
+Circuit:
 <img src="https://github.com/anukriti-bcc/Hand-Gesture-Recognition-System/blob/main/image.png?raw=true" width="400"/>
+
+Output:
