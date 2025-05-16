@@ -5,7 +5,7 @@ The gesture recognition process is handled using Python and MediaPipe, a powerfu
 
 Circuit:
 
-<img src="https://github.com/anukriti-bcc/Hand-Gesture-Recognition-System/blob/main/image.png?raw=true" width="400"/>
+<img src="https://github.com/anukriti-bcc/Hand-Gesture-Recognition-System/blob/main/image.png?raw=true" width="500"/>
 
 Output:
 
