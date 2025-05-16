@@ -7,3 +7,6 @@ Circuit:
 <img src="https://github.com/anukriti-bcc/Hand-Gesture-Recognition-System/blob/main/image.png?raw=true" width="400"/>
 
 Output:
+<img src="https://github.com/anukriti-bcc/Hand-Gesture-Recognition-System/blob/main/image (2).png?raw=true" width="500"/>
+
+<img src="https://github.com/anukriti-bcc/Hand-Gesture-Recognition-System/blob/main/image (3).png?raw=true" width="500"/>
